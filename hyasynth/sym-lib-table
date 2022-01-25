@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "laserbee")(type "Legacy")(uri "${KIPRJMOD}/libraries/ul_EFM8LB12F64E-B-QFN32/KiCAD/2022-01-12_16-47-15/2022-01-12_16-47-15.lib")(options "")(descr ""))
   (lib (name "vio")(type "KiCad")(uri "${KIPRJMOD}/libraries/PowerNew.kicad_sym")(options "")(descr ""))
+  (lib (name "BH3544F")(type "KiCad")(uri "${KIPRJMOD}/libraries/BH3544F.kicad_sym")(options "")(descr ""))
 )
