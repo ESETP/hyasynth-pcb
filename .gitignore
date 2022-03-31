@@ -30,3 +30,5 @@ fp-info-cache
 
 hyasynth/hyasynth-backups/*
 hyasynth/libraries/*.pdf
+.DS_Store
+hyasynth/.DS_Store
