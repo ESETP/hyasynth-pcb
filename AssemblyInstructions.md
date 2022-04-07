@@ -57,13 +57,13 @@ Solder the button starting from one of the pins not attached to the ground plane
 
 ## Through Hole
 
-### Solder Slide Switch
+### Solder Slide Switch and Audio Jack
 
-
-
-### Solder Audio Jack
+Ensuring the correct orientation of the Switch or audio jack insert it into the through hole from the bottom of the PCB, attach it to the PCB temporarily using electrical tape. Solder the pins by heating pad and pin then adding solder.
 
 ### Solder Speaker
+
+**Warning speaker is small and magnetic and likes hot soldering irons**
 
 ### Soldering User Peripherals
 
