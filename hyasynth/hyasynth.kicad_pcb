@@ -13749,6 +13749,23 @@
       )
     )
   )
+  (zone (net 0) (net_name "") (layers F&B.Cu) (tstamp ffe44ad2-57d3-488a-a415-2d04c9f6a6a0) (hatch edge 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 242.85 31.05)
+        (xy 243.45 31.65)
+        (xy 242.95 33.25)
+        (xy 241.35 33.25)
+        (xy 240.85 32.55)
+        (xy 240.75 31.65)
+        (xy 241.35 30.85)
+      )
+    )
+  )
   (group "" locked (id 6d972437-8279-4b2b-a37e-de2c230a1ff4)
     (members
       050569be-3a9e-4513-9031-bfbbd7f3e4ff
