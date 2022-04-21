@@ -27,6 +27,8 @@ fp-info-cache
 *.xml
 *.csv
 
+*.pdf
+
 
 hyasynth/hyasynth-backups/*
 .DS_Store
