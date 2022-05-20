@@ -29,10 +29,6 @@ While Heating the solder push the pin of the IC into the molten solder, making s
 
 Solder the remaining pads by heating the pad and pin with the iron then adding solder. Remove excess solder using a soldering wick to prevent shorts.
 
-## Soldering VIAs
-
-Poke a strand of fine steel wire through the via, solder the bottom side of the via, solder the top side of the via, trim excess wire and repeat for all other vias.
-
 ## Resistors and Capacitors
 
 Using capricious amount of flux tin one pad of the SMD footprint, push the SMD passive component into the molten solder, remove heat and allow solder to cool. Inspect alignment and adjust accordingly, solder the other pad.
@@ -44,6 +40,10 @@ Soldering in order:
 - Kemit C Capacitors
 
 List of all SMD Passives, their component value and their SMD package size.
+
+## Soldering VIAs
+
+Poke a strand of fine steel wire through the via, solder the bottom side of the via, solder the top side of the via, trim excess wire and repeat for all other vias.
 
 ## Solder Battery Holders
 
