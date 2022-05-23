@@ -1,6 +1,6 @@
 (footprint "SW_Push_hand_solder" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6261525A)
+  (tedit 628BE874)
   (descr "CK components KSC7 tactile switch https://www.ckswitches.com/media/1973/ksc7.pdf")
   (tags "tactile switch ksc7")
   (attr smd)
@@ -29,9 +29,9 @@
   (pad "1" smd rect (at -4.5 -2.25) (size 2.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7ac1ccc5-26c5-4b73-8425-7bbec927bf24))
   (pad "2" smd rect (at 4.5 2.25) (size 2.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 173fd4a7-b485-4e9d-8724-470865466784))
   (pad "2" smd rect (at -4.5 2.25) (size 2.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a7e7b16-fc7c-4e64-9ace-48cc78112437))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC7xxJxxx.wrl"
-    (offset (xyz 0 0 0))
+  (model "/Users/thomasburnip/Library/CloudStorage/OneDrive-Personal/Uni Stuff/Level 4/TeamPJEE4/hyasynth-pcb/hyasynth/libraries/Button v2.step"
+    (offset (xyz -3 3 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
