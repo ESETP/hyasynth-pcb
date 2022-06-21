@@ -2656,7 +2656,7 @@
     (uuid 8edc3100-86dd-4549-b6e6-d3e637e4160d)
     (property "Reference" "SW1" (id 0) (at 46.99 24.13 90))
     (property "Value" "Power Switch" (id 1) (at 52.07 26.67 90))
-    (property "Footprint" "Switch:Slide Switch" (id 2) (at 41.91 26.67 0)
+    (property "Footprint" "powerSwitch:SK12D07VG4NSPA" (id 2) (at 41.91 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 41.91 26.67 0)
@@ -3101,7 +3101,7 @@
       (reference "R5") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/8edc3100-86dd-4549-b6e6-d3e637e4160d"
-      (reference "SW1") (unit 1) (value "Power Switch") (footprint "Switch:Slide Switch")
+      (reference "SW1") (unit 1) (value "Power Switch") (footprint "powerSwitch:SK12D07VG4NSPA")
     )
     (path "/7e72304a-4161-4a22-8d65-75ee76dcdf69"
       (reference "SW2") (unit 1) (value "Low C") (footprint "Button:SW_Push_hand_solder")
